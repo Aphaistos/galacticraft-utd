@@ -1,0 +1,22 @@
+{
+	"itemGroup.galacticraft_blocks": "Galacticraft Blocks",
+	"itemGroup.galacticraft_items": "Galacticraft Items",
+	
+	"gui.tank.oxygen_remaining": "Oxygen Remaining%s",
+	
+	"item.galacticraft.oxygen_tank_light_full": "Light Oxygen Tank",
+	"item.galacticraft.oxygen_tank_med_full": "Medium Oxygen Tank",
+	"item.galacticraft.oxygen_tank_heavy_full": "Heavy Oxygen Tank",
+	"item.galacticraft.oxygen_mask": "Oxygen Mask",
+	"item.galacticraft.sensor_glasses": "Sensor Glasses",
+	"item.galacticraft.steel_axe": "Heavy Duty Axe",
+	"item.galacticraft.steel_hoe": "Heavy Duty Hoe",
+	"item.galacticraft.steel_pickaxe": "Heavy Duty Pickaxe",
+	"item.galacticraft.steel_shovel": "Heavy Duty Shovel",
+	"item.galacticraft.steel_sword": "Heavy Duty Sword",
+	"item.galacticraft.steel_helmet": "Heavy Duty Helmet",
+	"item.galacticraft.steel_chestplate": "Heavy Duty Chestplate",
+	"item.galacticraft.steel_leggings": "Heavy Duty Leggings",
+	"item.galacticraft.steel_boots": "Heavy Duty Boots",
+	"item.galacticraft.steel_pole": "Steel Pole"
+}

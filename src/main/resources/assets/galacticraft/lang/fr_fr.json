@@ -1,0 +1,20 @@
+{
+	"itemGroup.galacticraft_blocks": "Blocs de Galacticraft",
+	"itemGroup.galacticraft_items": "Objets de Galacticraft",
+	"gui.tank.oxygen_remaining": "Oxygène restant%s",
+	"item.galacticraft.oxygen_tank_light_full": "Petite bonbonne d'oxygène",
+	"item.galacticraft.oxygen_tank_med_full": "Moyenne bonbonne d'oxygène",
+	"item.galacticraft.oxygen_tank_heavy_full": "Grosse bonbonne d'oxygène",
+	"item.galacticraft.oxygen_mask": "Masque à oxygène",
+	"item.galacticraft.sensor_glasses": "Lunettes sensorielles",
+	"item.galacticraft.steel_axe": "Hache en acier lourd",
+	"item.galacticraft.steel_hoe": "Houe en acier lourd",
+	"item.galacticraft.steel_pickaxe": "Pioche en acier lourd",
+	"item.galacticraft.steel_shovel": "Pelle en acier lourd",
+	"item.galacticraft.steel_sword": "Épée en acier lourd",
+	"item.galacticraft.steel_helmet": "Casque en acier lourd",
+	"item.galacticraft.steel_chestplate": "Plastron en acier lourd",
+	"item.galacticraft.steel_leggings": "Jambières en acier lourd",
+	"item.galacticraft.steel_boots": "Bottes en acier lourde",
+	"item.galacticraft.steel_pole": "Mât en acier"
+}
