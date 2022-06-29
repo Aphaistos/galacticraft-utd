@@ -16,5 +16,16 @@
 	"item.galacticraft.steel_chestplate": "Plastron en acier lourd",
 	"item.galacticraft.steel_leggings": "Jambières en acier lourd",
 	"item.galacticraft.steel_boots": "Bottes en acier lourde",
+	"item.galacticraft.copper_canister": "Canette en cuivre",
+	"item.galacticraft.tin_canister": "Canette en étain",
+	"item.galacticraft.air_vent": "Conduit d'air",
+	"item.galacticraft.air_fan": "Ventilateur",
+	"item.galacticraft.oxygen_concentrator": "Concentrateur d'oxygène",
+	"item.galacticraft.heavy_plating": "Placage lourd",
+	"item.galacticraft.tier1_rocket_engine": "Moteur de fusée Niveau 1",
+	"item.galacticraft.tier1_booster": "Amplificateur Niveau 1",
+	"item.galacticraft.rocket_fins": "Ailerons de fusée",
+	"item.galacticraft.nose_cone": "Cône de nez",
+	"item.galacticraft.sensor_lens": "Lentille sensorielle",
 	"item.galacticraft.steel_pole": "Mât en acier"
 }

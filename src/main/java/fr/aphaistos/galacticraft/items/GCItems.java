@@ -28,6 +28,16 @@ public class GCItems {
 	public static final RegistryObject<Item> STEEL_CHESTPLATE = ITEMS.register("steel_chestplate", () -> new ItemArmorGC(EquipmentSlot.CHEST, new Item.Properties()));
 	public static final RegistryObject<Item> STEEL_LEGGINGS = ITEMS.register("steel_leggings", () -> new ItemArmorGC(EquipmentSlot.LEGS, new Item.Properties()));
 	public static final RegistryObject<Item> STEEL_BOOTS = ITEMS.register("steel_boots", () -> new ItemArmorGC(EquipmentSlot.FEET, new Item.Properties()));
-
+	public static final RegistryObject<Item> COPPER_CANISTER = ITEMS.register("copper_canister", () -> new ItemCanister(new Item.Properties()));
+	public static final RegistryObject<Item> TIN_CANISTER = ITEMS.register("tin_canister", () -> new ItemCanister(new Item.Properties()));
+	public static final RegistryObject<Item> AIR_VENT = ITEMS.register("air_vent", () -> new ItemBase(new Item.Properties()));
+	public static final RegistryObject<Item> AIR_FAN = ITEMS.register("air_fan", () -> new ItemBase(new Item.Properties()));
+	public static final RegistryObject<Item> OXYGEN_CONCENTRATOR = ITEMS.register("oxygen_concentrator", () -> new ItemBase(new Item.Properties()));
+	public static final RegistryObject<Item> HEAVY_PLATING = ITEMS.register("heavy_plating", () -> new ItemBase(new Item.Properties()).setSmeltingXP(1f));
+	public static final RegistryObject<Item> TIER1_ROCKET_ENGINE = ITEMS.register("tier1_rocket_engine", () -> new ItemBase(new Item.Properties()));
+	public static final RegistryObject<Item> TIER1_BOOSTER = ITEMS.register("tier1_booster", () -> new ItemBase(new Item.Properties()));
+	public static final RegistryObject<Item> ROCKET_FINS = ITEMS.register("rocket_fins", () -> new ItemBase(new Item.Properties()));
+	public static final RegistryObject<Item> NOSE_CONE = ITEMS.register("nose_cone", () -> new ItemBase(new Item.Properties()));
+	public static final RegistryObject<Item> SENSOR_LENS = ITEMS.register("sensor_lens", () -> new ItemBase(new Item.Properties()));
 	public static final RegistryObject<Item> STEEL_POLE = ITEMS.register("steel_pole", () -> new ItemBase(new Item.Properties()));
 }

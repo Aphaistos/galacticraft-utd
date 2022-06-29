@@ -42,8 +42,9 @@ public class ItemBase extends Item implements ISortableItem {
 		return EnumSortCategoryItem.GENERAL;
 	}
 	
-	public void setSmeltingXP(float smeltingXP) {
+	public ItemBase setSmeltingXP(float smeltingXP) {
 		this.smeltingXP = smeltingXP;
+		return this;
 	}
 	
 }

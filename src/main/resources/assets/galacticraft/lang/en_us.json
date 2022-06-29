@@ -18,5 +18,16 @@
 	"item.galacticraft.steel_chestplate": "Heavy Duty Chestplate",
 	"item.galacticraft.steel_leggings": "Heavy Duty Leggings",
 	"item.galacticraft.steel_boots": "Heavy Duty Boots",
+	"item.galacticraft.copper_canister": "Copper Canister",
+	"item.galacticraft.tin_canister": "Tin Canister",
+	"item.galacticraft.air_vent": "Oxygen Vent",
+	"item.galacticraft.air_fan": "Oxygen Fan",
+	"item.galacticraft.oxygen_concentrator": "Oxygen Concentrator",
+	"item.galacticraft.heavy_plating": "Heavy-Duty Plate",
+	"item.galacticraft.tier1_rocket_engine": "Tier 1 Rocket Engine",
+	"item.galacticraft.tier1_booster": "Tier 1 Booster",
+	"item.galacticraft.rocket_fins": "Rocket Fins",
+	"item.galacticraft.nose_cone": "Nose Cone",
+	"item.galacticraft.sensor_lens": "Sensor Lens",
 	"item.galacticraft.steel_pole": "Steel Pole"
 }
